@@ -1,0 +1,4 @@
+/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/glad.dir
+/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/Sim.dir
+/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/edit_cache.dir
+/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,167 @@
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+----Start sesion----
+----Start sesion----
+----Start sesion----
+----End sesion----
+----Start sesion----
+----End sesion----
+----Start sesion----
+----End sesion----
+----Start sesion----
+----Start sesion----
+[ERROR] : Hello
+[DEBUG] : Hello
+[WARNING] : Hello
+----End sesion----
+----Start sesion----
+----Start sesion----
+----Start sesion----
+----Start sesion----
+----Start sesion----
+----Start sesion----
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+----End sesion----
+----Start sesion----
+[31m[ERROR] : Hello
+[32m[DEBUG] : Hello
+[33m[WARNING] : Hello
+----End sesion----
+----Start sesion----
+----End sesion----
+----Start sesion----
+[ERROR] : Hello
+[DEBUG] : Hello
+NON : Hello
+----End sesion----
+----Start sesion----
+[ERROR] : Hello
+[DEBUG] : Hello
+[WARNING] : Hello
+----End sesion----
+----Start sesion----
+[1][ERROR] : Hello
+[1][DEBUG] : Hello
+[1][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[1][ERROR] : Hello
+[1][DEBUG] : Hello
+[1][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[1][ERROR] : Hello
+[1][DEBUG] : Hello
+[1][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[1][ERROR] : Hello
+[1][DEBUG] : Hello
+[1][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[1][ERROR] : Hello
+[1][DEBUG] : Hello
+[1][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[1][ERROR] : Hello
+[1][DEBUG] : Hello
+[1][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-06-27 12:47:47][ERROR] : Hello
+[2025-06-27 12:47:47][DEBUG] : Hello
+[2025-06-27 12:47:47][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-06-27 12:48:14][ERROR] : Hello
+[2025-06-27 12:48:14][DEBUG] : Hello
+[2025-06-27 12:48:14][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-06-28 17:13:24][ERROR] : Hello
+[2025-06-28 17:13:24][DEBUG] : Hello
+[2025-06-28 17:13:24][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:15:58][ERROR] : Hello
+[2025-07-01 10:15:58][DEBUG] : Hello
+[2025-07-01 10:15:58][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:17:09][ERROR] : Hello
+[2025-07-01 10:17:09][DEBUG] : Hello
+[2025-07-01 10:17:09][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:17:42][ERROR] : Hello
+[2025-07-01 10:17:42][DEBUG] : Hello
+[2025-07-01 10:17:42][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:23:32][ERROR] : Hello
+[2025-07-01 10:23:32][DEBUG] : Hello
+[2025-07-01 10:23:32][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:24:43][ERROR] : Hello
+[2025-07-01 10:24:43][DEBUG] : Hello
+[2025-07-01 10:24:43][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:27:08][ERROR] : Hello
+[2025-07-01 10:27:08][DEBUG] : Hello
+[2025-07-01 10:27:08][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:29:04][ERROR] : Hello
+[2025-07-01 10:29:04][DEBUG] : Hello
+[2025-07-01 10:29:04][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:31:38][ERROR] : Hello
+[2025-07-01 10:31:38][DEBUG] : Hello
+[2025-07-01 10:31:38][WARNING] : Hello
+----End sesion----
+----Start sesion----
+[2025-07-01 10:35:29][ERROR] : Hello
+[2025-07-01 10:35:29][DEBUG] : Hello
+[2025-07-01 10:35:29][WARNING] : Hello
+----End sesion----

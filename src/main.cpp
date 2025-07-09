@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <iostream>
 #include <ostream>
-#include <glm/gtc/matrix_transform.hpp>
-#include <glm/gtc/type_ptr.hpp>
+#include <gtc/matrix_transform.hpp>
+ #include <gtc/type_ptr.hpp>
 
 #include "imgui.h"
 #include "imgui_impl_glfw.h"
@@ -18,6 +18,7 @@ static float lastX = 1280.0f / 2.0f;
 static float lastY = 720.0f / 2.0f;
 static bool firstMouse = true;
 static bool showCursor = true;
+float speed = 10.0f;
 
 //Cube
 static glm::vec3 cubePosition = {0.0f, 0.0f, 0.0f};
@@ -124,7 +125,7 @@ int main()
         }
         /*********************************CameraUpdate******************************************/
 
-       camera.processInput(window, deltaTime);
+       camera.processInput(window, deltaTime, speed);
 
         /******************************ImGui_Frame*********************************************/
 
@@ -135,8 +136,6 @@ int main()
 
         if (1)
         {
-            static float f = 0.0f;
-            static int counter = 0;
             ImGui::Begin("Debug Info");
             ImGui::Text("Position: (%.2f, %.2f, %.2f)", camera.position.x, camera.position.y, camera.position.z);
             ImGui::Text("Yaw: %.2f", camera.yaw);
@@ -148,6 +147,10 @@ int main()
 
             ImGui::ColorEdit3("cube color", (float*)&cubeColor); 
 
+            ImGui::SliderFloat3("cube position", (float*)&cubePosition, -10.0f, 10.0f);
+            ImGui::SliderFloat3("cube rotation", (float*)&cubeRotation, -180.0f, 180.0f);
+            ImGui::SliderFloat3("cube scale", (float*)&cubeScale, 0.1f, 5.0f);
+            ImGui::SliderFloat("Camera Speed", &speed, 0.1f, 50.0f);
             ImGui::Text("Application average %.3f ms/frame (%.1f FPS)", 1000.0f / io.Framerate, io.Framerate);
             ImGui::End();
 

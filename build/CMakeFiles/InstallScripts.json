@@ -1,7 +1,10 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/ayaksss/WorkSpace/RelativitySimulation/build/cmake_install.cmake"
+		"C:/WorkSpace/build/cmake_install.cmake",
+		"C:/WorkSpace/build/libs/glfw/cmake_install.cmake",
+		"C:/WorkSpace/build/libs/glfw/src/cmake_install.cmake",
+		"C:/WorkSpace/build/libs/glfw/docs/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

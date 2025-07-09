@@ -26,7 +26,7 @@ void Camera::updateCameraVectors()
     front = glm::normalize(front);
 }
 
-void Camera::processInput(GLFWwindow* window, float deltaTime)
+void Camera::processInput(GLFWwindow* window, float deltaTime, float speed)
 {
     float velocity = speed * deltaTime;
 

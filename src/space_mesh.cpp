@@ -2,11 +2,11 @@
 #include <cmath>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#include <glm/glm.hpp>
-#include <glm/gtc/type_ptr.hpp>
+#include <glm.hpp>
+#include <gtc/type_ptr.hpp>
 
-const int gridWidth = 20;
-const int gridHeight = 20;
+const int gridWidth = 100;
+const int gridHeight = 100;
 const float spacing = 1.0f;
 glm::vec3 vertices[gridWidth][gridHeight];
 

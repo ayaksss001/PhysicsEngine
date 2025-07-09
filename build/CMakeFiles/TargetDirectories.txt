@@ -1,4 +1,12 @@
-/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/glad.dir
-/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/Sim.dir
-/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/edit_cache.dir
-/home/ayaksss/WorkSpace/RelativitySimulation/build/CMakeFiles/rebuild_cache.dir
+C:/WorkSpace/build/CMakeFiles/glad.dir
+C:/WorkSpace/build/CMakeFiles/Sim.dir
+C:/WorkSpace/build/CMakeFiles/INSTALL.dir
+C:/WorkSpace/build/CMakeFiles/ALL_BUILD.dir
+C:/WorkSpace/build/CMakeFiles/ZERO_CHECK.dir
+C:/WorkSpace/build/libs/glfw/CMakeFiles/uninstall.dir
+C:/WorkSpace/build/libs/glfw/CMakeFiles/INSTALL.dir
+C:/WorkSpace/build/libs/glfw/CMakeFiles/ALL_BUILD.dir
+C:/WorkSpace/build/libs/glfw/src/CMakeFiles/glfw.dir
+C:/WorkSpace/build/libs/glfw/src/CMakeFiles/update_mappings.dir
+C:/WorkSpace/build/libs/glfw/src/CMakeFiles/INSTALL.dir
+C:/WorkSpace/build/libs/glfw/docs/CMakeFiles/INSTALL.dir

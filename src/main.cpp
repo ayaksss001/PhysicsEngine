@@ -1,10 +1,8 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#include <stdio.h>
 #include <iostream>
-#include <ostream>
 #include <gtc/matrix_transform.hpp>
- #include <gtc/type_ptr.hpp>
+#include <gtc/type_ptr.hpp>
 
 #include "imgui.h"
 #include "imgui_impl_glfw.h"
@@ -64,7 +62,6 @@ int main()
         return -1;
     }
     
-    glfwMakeContextCurrent(window);
     glfwSwapInterval(1);
     glfwSetCursorPosCallback(window, mouse_callback);
 

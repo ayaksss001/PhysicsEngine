@@ -10,7 +10,7 @@ def is_windows():
 def clean_build_dir(build_dir):
     cmake_cache = os.path.join(build_dir, "CMakeCache.txt")
     if os.path.exists(cmake_cache):
-        print("🧹 Cleaning old CMake cache...")
+        print("Cleaning old CMake cache...")
         shutil.rmtree(build_dir)
 
 def main():
@@ -23,28 +23,28 @@ def main():
 
     # Step 1: Configure with CMake
     cmake_cmd = ["cmake", source_dir]
-    print("🛠️  Configuring project with CMake...")
+    print("Configuring project with CMake...")
     result = subprocess.run(cmake_cmd, cwd=build_dir)
     if result.returncode != 0:
-        print("❌ CMake configuration failed")
+        print("CMake configuration failed")
         sys.exit(1)
 
     # Step 2: Build
     build_cmd = ["cmake", "--build", "."]
-    print("🔨 Building project...")
+    print("Building project...")
     result = subprocess.run(build_cmd, cwd=build_dir)
     if result.returncode != 0:
-        print("❌ Build failed")
+        print("Build failed")
         sys.exit(1)
 
     # Step 3: Run
  #   executable = "Sim.exe" if is_windows() else "./Sim"
-#    print(f"🚀 Running {executable}...")
+#    print(f"Running {executable}...")
  #   run_cmd = [executable] if is_windows() else [os.path.join(".", "Sim")]
   #  result = subprocess.run(run_cmd, cwd=build_dir)
 
    # if result.returncode != 0:
-    #    print("⚠️ Program exited with errors.")
+    #    print("Program exited with errors.")
 
 if __name__ == "__main__":
     main()

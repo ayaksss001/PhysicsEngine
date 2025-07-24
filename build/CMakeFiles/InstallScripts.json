@@ -1,10 +1,10 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/WorkSpace/build/cmake_install.cmake",
-		"C:/WorkSpace/build/libs/glfw/cmake_install.cmake",
-		"C:/WorkSpace/build/libs/glfw/src/cmake_install.cmake",
-		"C:/WorkSpace/build/libs/glfw/docs/cmake_install.cmake"
+		"/home/ayaksss/WorkSpace/PhysicsEngine/build/cmake_install.cmake",
+		"/home/ayaksss/WorkSpace/PhysicsEngine/build/libs/glfw/cmake_install.cmake",
+		"/home/ayaksss/WorkSpace/PhysicsEngine/build/libs/glfw/src/cmake_install.cmake",
+		"/home/ayaksss/WorkSpace/PhysicsEngine/build/libs/glfw/docs/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
